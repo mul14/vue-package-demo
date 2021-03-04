@@ -2,6 +2,7 @@
   "name": "@mul14/vue-package-demo",
   "version": "0.0.0",
   "private": true,
+  "main": "dist/common.js",
   "scripts": {
     "build": "rollup -c"
   },
